@@ -9,3 +9,5 @@ This is a keylogger that can be run on any Windows device and send keystrokes to
 
 - A netcat listener can be started using the following command :
 `nc -lvnp <port>`
+
+- PLEASE NOTE : You first need to start the listener before running the application.
