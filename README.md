@@ -5,7 +5,7 @@ This is a keylogger that can be run on any Windows device and send keystrokes to
 
 ![image](https://user-images.githubusercontent.com/101802030/233600641-7971e1ef-f42d-497c-849f-67d50147adbe.png)
 
-- As you can see, the server ip address and port is required in order for keystrokes to sent across the network.
+- As you can see, the server ip address and port is required in order for keystrokes to be sent across the network.
 
 - A netcat listener can be started using the following command :
 `nc -lvnp <port>`
